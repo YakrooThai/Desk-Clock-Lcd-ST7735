@@ -7,3 +7,5 @@ Desk clock with a small nixie format using LCD screen.
 ![ddrfffr](https://user-images.githubusercontent.com/56666070/224148151-75e81b0e-9a79-4f53-9d24-8907884b10ff.JPG)
 
 https://www.youtube.com/shorts/1N3taYjmDDw
+
+[![Watch the video](https://user-images.githubusercontent.com/56666070/224148151-75e81b0e-9a79-4f53-9d24-8907884b10ff.JPG)](https://www.youtube.com/shorts/1N3taYjmDDw)
