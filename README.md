@@ -4,6 +4,7 @@ Desk clock with a small nixie format using LCD screen.
 
 ![20230307_213935](https://user-images.githubusercontent.com/56666070/224148077-51bfd138-a9d4-4847-82ce-a45684fe7bc5.jpg)
 
+https://www.youtube.com/watch?v=S2WLV3PVlgw
 
 https://www.youtube.com/shorts/1N3taYjmDDw
 
