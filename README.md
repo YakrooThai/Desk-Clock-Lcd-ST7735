@@ -1,5 +1,25 @@
 # -Desk-Clock-Lcd-ST7735
 Desk clock with a small nixie format using LCD screen.
+
+  raspberry PICO connect LCD ST7735  Write a program to create gif animations. for title when start power
+
+
+
+Features
+
+1.Gif animation when Power On
+
+2.Set time month year
+
+3.Alarm time sound and an animation showing the selected text
+
+4.Show the temperature
+
+5.Show percent Power
+
+6.display clock theme Nixie tube
+
+
 ![20230305_165542](https://user-images.githubusercontent.com/56666070/224147999-5ad3f94e-45bc-423d-a18b-732c831f60f9.jpg)
 
 ![20230307_213935](https://user-images.githubusercontent.com/56666070/224148077-51bfd138-a9d4-4847-82ce-a45684fe7bc5.jpg)
