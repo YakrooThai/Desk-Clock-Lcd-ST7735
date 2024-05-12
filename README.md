@@ -1,4 +1,4 @@
-# -Desk-Clock-Lcd-ST7735
+# Desk-Clock-Lcd-ST7735
 Desk clock with a small nixie format using LCD screen.
 
   raspberry PICO connect LCD ST7735  Write a program to create gif animations. for title when start power
