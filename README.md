@@ -19,6 +19,12 @@ Features
 
 6.display clock theme Nixie tube
 
+https://hackaday.io/project/189875-desk-clock-lcd-st7735
+
+https://www.hackster.io/yakroo/desk-clock-lcd-st7735-9a2244
+
+https://www.instructables.com/Desk-Clock-Lcd-ST7735/
+
 
 ![20230305_165542](https://user-images.githubusercontent.com/56666070/224147999-5ad3f94e-45bc-423d-a18b-732c831f60f9.jpg)
 
